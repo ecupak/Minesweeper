@@ -1,6 +1,9 @@
-# Minesweeper
-An Excel VBA project where I reproduce the basic mechanics of Minesweeper.
+## Summary
+Reproduction of Minesweeper.
 
+This is an Excel file and only runs in the desktop version.
+
+## Usage
 You can choose between a small, medium, and large board.
 
 You can only select safe spaces. There is no ability to mark spaces as known bombs or likely bombs.
